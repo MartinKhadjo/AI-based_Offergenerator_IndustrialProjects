@@ -1,0 +1,22 @@
+AI-based_Offergenerator_IndustrialProjects_Professional_Showcase
+├── README.md
+├── CHANGELOG.md
+├── LICENSE.md
+├── NOTICE.md
+├── MANIFEST.txt
+├── github-repository-description.txt
+└── docs/
+    ├── architecture.md
+    ├── user-workflows.md
+    ├── deployment-and-operations.md
+    ├── security-and-privacy.md
+    ├── performance-and-scalability.md
+    ├── engineering-boundaries.md
+    ├── portfolio-evidence.md
+    ├── diagram-provenance.md
+    ├── deutsche-kurzbeschreibung.md
+    └── assets/
+        ├── processing-flow.png
+        ├── form-submission-sequence.png
+        ├── component-hierarchy.png
+        └── browser-ui.png

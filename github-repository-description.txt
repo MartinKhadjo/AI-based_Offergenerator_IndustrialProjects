@@ -1,0 +1,1 @@
+AI-assisted PowerPoint offer generator for industrial projects. Converts structured project and work-package inputs into branded EN/DE PPTX offers using LLM-supported text generation, template mapping and automated slide filling. Public showcase repository with diagrams, workflows and architecture evidence.
