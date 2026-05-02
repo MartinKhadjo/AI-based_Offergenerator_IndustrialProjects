@@ -1,1 +1,0 @@
-AI‑powered web application for generating professional industrial project offers in PowerPoint.  Uses GPT to refine project metadata and work packages, applies JSON‑based EN/DE template mappings and renders branded PPTX files with python‑pptx.
